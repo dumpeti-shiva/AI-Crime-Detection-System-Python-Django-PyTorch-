@@ -1,7 +1,7 @@
 # AI Crime Detection System  
 *A Deep Learning–based Crime Detection Web Application*
 
-## 📌 Project Overview
+## 📌 Project Overview.
 The **AI Crime Detection System** is a web-based application designed to detect and classify suspicious or criminal activities from images or video streams using **Deep Learning**.  
 It leverages **PyTorch** for model training and inference and **Django** for backend web integration.
 
